@@ -216,8 +216,11 @@ Public good: Includes government agencies, nonprofits and religious organization
 
 ## References
 [1] Business Activity Trends Methodology paper (https://dataforgood.facebook.com/dfg/resources/business-activity-trends-methodology-paper)
+
 [2] Robert Eyre, Flavia De Luca, and Filippo Simini. Social media usage reveals recovery of small businesses after natural hazard events. Nature communications, 11(1):1–10, 2020.
+
 [3] Oxford COVID-19 Government Response Tracker (https://github.com/OxCGRT/covid-policy-dataset/tree/main)
+
 [4] https://data.humdata.org/dataset/facebook-business-activity-trends-during-covid19?fbclid=IwAR3HMIOal-xZ9zleb8QsW_Kpt29oNg769KJNNmB_TjjU4yWh8l8x8maT-gw#
 
 
