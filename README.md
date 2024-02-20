@@ -12,9 +12,7 @@ globally during the pandemic.
 
 The aim of this analysis is to uncover the strategies that aided in
 the recovery of some businesses and to also investigate the pivotal role that governmental policies
-play in crises like the COVID-19 pandemic.
-
-To achieve this, the following objectives will be pursued: understanding the key metrics in the
+play in crises like the COVID-19 pandemic. To achieve this, the following objectives will be pursued: understanding the key metrics in the
 FBAT dataset, assessing the quality of data captured in the FBAT dataset, analyse the timeseries
 data for specific countries ( 5-6 countries which are chosen to b e as r epresentative as of the global
 situation as possible), and identify the effects of policies on business trends in those chosen countries
