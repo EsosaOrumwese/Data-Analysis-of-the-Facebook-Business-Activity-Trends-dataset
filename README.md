@@ -8,9 +8,12 @@ on businesses worldwide, I will be making use of two datasets; the Facebook Busi
 Trends dataset (FBAT) and the Oxford COVID-19 Government Response Tracker dataset
 (OxCGRT). The former captures the change in business activity globally during the pandemic
 and its aftermath while the latter captures the response of governments through policies released
-globally during the pandemic. The aim of this analysis is to uncover the strategies that aided in
+globally during the pandemic. 
+
+The aim of this analysis is to uncover the strategies that aided in
 the recovery of some businesses and to also investigate the pivotal role that governmental policies
 play in crises like the COVID-19 pandemic.
+
 To achieve this, the following objectives will be pursued: understanding the key metrics in the
 FBAT dataset, assessing the quality of data captured in the FBAT dataset, analyse the timeseries
 data for specific countries ( 5-6 countries which are chosen to b e as r epresentative as of the global
